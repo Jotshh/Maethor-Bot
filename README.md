@@ -1,6 +1,40 @@
-# 🤖 Maethor Bot
+# ⚔️ Maethor Bot
 
-Bem-vindo ao Maethor Bot! Este bot foi feito para facilitar interações, chamadas para jogos, e manter um divertido "Sistema de Amizade".
+[![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org/)
+[![Discord.py](https://img.shields.io/badge/library-discord.py-red)](https://discordpy.readthedocs.io/)
+
+**Maethor** (do élfico, *Guerreiro*) é um bot multifuncional para o Discord desenvolvido em Python. Ele foi criado para trazer ordem, entretenimento e utilidades para o seu servidor, garantindo uma experiência estável e robusta para os membros.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Python
+* **Biblioteca Principal:** `discord.py`
+* **Gerenciador de Dependências:** `pip`
+
+---
+
+## ⚙️ Como Executar o Projeto Localmente
+
+### Pré-requisitos
+Antes de começar, você vai precisar do [Python](https://www.python.org/) instalado na sua máquina (recomendado: 3.11 ou 3.12).
+
+### Passo a Passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Jotshh/Maethor-Bot.git](https://github.com/Jotshh/Maethor-Bot.git)
+   cd Maethor-Bot
+   
+---
+
+## 🚀 Funcionalidades do Maethor Bot 🤖 
+
+* **🛡️ Moderação & Utilidades:** Comandos essenciais para manter o servidor organizado.
+* **🎮 Integração Gamer:** Recursos pensados para comunidades de jogos (como League of Legends).
+* **🎮 Sistema de Amizade:** Recursos para estar sempre com classe e respeitando a moderação.
+* **⚡ Slash Commands:** Totalmente atualizado com as interações modernas do Discord (`/comando`).
 
 ---
 
